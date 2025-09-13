@@ -10,15 +10,6 @@ function getRandomPokemonId() {
 
 async function fetchPokemon(id) {
   // TODO: fetch data from PokéAPI using the id
-  // const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${id}`);
-  // const data = await response.json();
-  // return data;
-
-  return {
-    name: "???",
-    sprite: "",
-    types: ["???"],
-  };
 }
 
 async function displayPokemon() {
