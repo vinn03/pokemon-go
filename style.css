@@ -22,7 +22,7 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-#pokemon-img {
+#pokemon-img #shiny-img {
   width: 120px;
   height: 120px;
 }
